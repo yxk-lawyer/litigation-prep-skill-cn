@@ -1,5 +1,3 @@
-# CorpClaim CN
-
 ## 公司诉讼案件指导专家
 
 ### Company Litigation Case Guide for China
@@ -143,7 +141,7 @@ CorpClaim CN 当前支持以下 10 个核心模块：
 9. **股东纠纷**
    Shareholder and Equity Disputes
 
-10. **投资关系识别模块（非独立案由）**
+10. **投资合同纠纷（复合案由）**
     Investment Relationship Classifier
     用于将“投资”事实进一步识别为股东纠纷、合伙合同纠纷、民间借贷纠纷、不当得利纠纷或其他真实法律关系。
 
